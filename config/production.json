@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "a string that nobody knows about",
+    "mongoUri": "mongodb+srv://yana:54UYSVnAks4H@cluster0.7q4os.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
